@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.ComboGenerator.Form1
+            Me.MainForm = Global.ComboGenerator.FormUtama
         End Sub
     End Class
 End Namespace

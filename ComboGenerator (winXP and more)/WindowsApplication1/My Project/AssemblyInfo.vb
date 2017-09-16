@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ComboGenerator")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ComboGenerator")> 
-<Assembly: AssemblyCopyright("Copyright ©  2017")> 
+<Assembly: AssemblyTitle("Combo Generator")> 
+<Assembly: AssemblyDescription("No Comment")> 
+<Assembly: AssemblyCompany("Ian Ardian Wayaw Wayaw")> 
+<Assembly: AssemblyProduct("WindowsApplication1")> 
+<Assembly: AssemblyCopyright("Copyright © Microsoft 2017")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("3b83959f-cfb3-4b45-af09-f036643ebefe")> 
+<Assembly: Guid("4e913aac-8953-442a-b9f9-c77e45a63a95")> 
 
 ' Version information for an assembly consists of the following four values:
 '
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' by using the '*' as shown below:
 ' <Assembly: AssemblyVersion("1.0.*")> 
 
-<Assembly: AssemblyVersion("1.0.0.0")> 
-<Assembly: AssemblyFileVersion("1.0.0.0")> 
+<Assembly: AssemblyVersion("0.0.5.0")> 
+<Assembly: AssemblyFileVersion("0.0.5.0")> 
